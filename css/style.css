@@ -59,9 +59,9 @@ ul {
     text-align: center;
 }
 
-.item::after {
+/* .item::after {
     content: "☺";
-}
+} */
 
 
 .item__img {
